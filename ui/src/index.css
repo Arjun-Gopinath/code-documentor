@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*  
+Off white - dfdad4
+grey ish - aaa6a3
+light blue - 678384
+blue - 354252
+dark blue - 232a37
+*/
+
+body {
+  background-color: #dfdad4;
+}

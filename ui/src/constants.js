@@ -1,0 +1,2 @@
+export const GITHUB_REPO_REGEX = /^https?:\/\/github\.com\/(?<owner>[\w-]+)\/(?<repo>[\w-]+)$/;
+export const FETCH_REPO_FILES_URL = 'https://api.github.com/repos/${owner}/${repo}/git/trees/master?recursive=1';
